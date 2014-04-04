@@ -12,6 +12,6 @@ a tag like the following.
   
 # Future
 
-Currently, the script just logs some json data about all the actions to the
-console. In the future, it will call an API that you can setup to log the
-actions to a file or database.
+The script currently just logs data about all the users actions to the javascript
+console (Chrome). In the future it will make ajax calls to your own API in
+order to log the actions to a file or database.
