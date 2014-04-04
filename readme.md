@@ -1,7 +1,7 @@
 # userSpy.js
 
 A simple javascript library that tracks each field a user changes as they
-filling out a form.
+fill out a form.
 
 # Usage
 
