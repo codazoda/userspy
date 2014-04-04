@@ -8,7 +8,7 @@ fill out a form.
 Just drop the userSpy.js file on your server and include it into the form with
 a tag like the following.
 
-  <script src="userSpy.js"></script>
+    <script src="userSpy.js"></script>
   
 # Future
 
