@@ -10,6 +10,17 @@ a tag like the following.
 
     <script src="userSpy.js"></script>
   
+# User Generated ID
+
+In many cases, you'll already know something about the form you're generating.
+Such as a user ID. In those cases you can create your own Javascript function
+called spyGenerateUser(). The result of that function will automatically be
+appended to the data that is captured with each request.
+
+    function spyGenerateUser() {
+        return $('#userId').value;
+    }
+
 # Future
 
 The script currently just logs data about all the users actions to the javascript
